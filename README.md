@@ -1,4 +1,14 @@
-### Hi there 👋
+# Hello, I'm Aditya! 👋
+
+I'm currently pursuing an MSc in Computer Science at The University of Glasgow 🎓. I am passionate about Artificial Intelligence and Deep Learning, with a particular interest in Computer Vision 👁️.
+
+## About Me
+
+- 🌱 I'm currently learning Reinforcement Learning and Deep Q-Networks (DQN).
+- 💼 I'm actively seeking opportunities to apply my skills and knowledge in AI and computer vision.
+  
+Feel free to connect with me to discuss AI, computer science, or anything else! 😊
+
 
 <!--
 **Aditya-Madhira/Aditya-Madhira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
